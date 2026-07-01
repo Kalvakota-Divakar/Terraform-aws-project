@@ -1,4 +1,4 @@
-# Terraform AWS Project
+## Terraform AWS Project
 
 A Terraform project that sets up a simple web hosting setup on AWS — two web servers behind a load balancer, all inside a private network.
 
