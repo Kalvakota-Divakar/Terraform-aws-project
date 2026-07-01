@@ -1,6 +1,6 @@
 ## Terraform AWS Project
 
-A Terraform project that sets up a simple web hosting setup on AWS — two web servers behind a load balancer, all inside a private network.
+A Terraform project that sets up a simple web hosting setup on AWS two web servers behind a load balancer, all inside a private network.
 
 ---
 
@@ -22,7 +22,7 @@ A Terraform project that sets up a simple web hosting setup on AWS — two web s
 ## How It Works
 
 1. Terraform creates a VPC with two subnets in different availability zones
-2. Two EC2 instances are launched — one in each subnet — with a web server set up automatically using `userdata.sh` and `userdata1.sh`
+2. Two EC2 instances are launched one in each subnet with a web server set up automatically using `userdata.sh` and `userdata1.sh`
 3. A load balancer sits in front of both instances and shares the incoming traffic between them
 4. At the end, Terraform prints out the load balancer URL so you can open it in a browser
 
