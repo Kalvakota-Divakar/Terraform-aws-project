@@ -40,6 +40,12 @@ A Terraform project that sets up a simple web hosting setup on AWS — two web s
 
 ---
 
+## Architecture
+
+![alt text](https://github.com/Kalvakota-Divakar/terraform-aws-vpc/blob/52a506007336448955f1421ca7fa812e61940f28/vpc-module.jpg)
+
+---
+
 ## How to Run
 
 ```bash
