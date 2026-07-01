@@ -42,7 +42,7 @@ A Terraform project that sets up a simple web hosting setup on AWS — two web s
 
 ## Architecture
 
-![alt text](https://github.com/Kalvakota-Divakar/Terraform-aws-project/blob/main/Infra.png)
+![Architecture](https://raw.githubusercontent.com/Kalvakota-Divakar/Terraform-aws-project/main/Infra.png)
 
 ---
 
@@ -86,7 +86,7 @@ terraform destroy
 
 **Kalvakota Divakar**
 - GitHub: https://github.com/Kalvakota-Divakar
-- LinkedIn: https://linkedin.com/in/your-handle
+- LinkedIn: https://www.linkedin.com/in/kalvakota-divakar
 
 ---
 
